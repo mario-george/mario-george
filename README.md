@@ -1,8 +1,13 @@
-### Hi there 👋
+### Hi there 👋 My name is Mario, and I'm a Full Stack Developer (MERN stack).
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mario-george&theme=dark&card_width=585&sideNums=30A2D2&currStreakNum=30A2D2&ring=30A2D2&fire=30A2D2&currStreakLabel=FFFFFF&sideLabels=FFFFFF&stroke=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF)](https://git.io/streak-stats)
+
+<div/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mario-george&layout=compact&theme=rose_pine)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mario-george&show_icons=true&theme=rose_pine&hide_rank=true" />
 
 <!--
-**mario-george/mario-george** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
