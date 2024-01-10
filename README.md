@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Mario, and I'm a Full Stack Developer (MERN stack).
 
 
-[![GitHub Streak](https://github-readme-streak-stats-six-blond.vercel.app?user=mario-george&theme=dark&ring=71A5D2k&card_width=585&fire=71A5D2&currStreakNum=71A5D2&currStreakLabel=71A5D2&sideLabels=71A5D2&dates=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-six-blond.vercel.app?user=mario-george&theme=dark&ring=71A5D2&card_width=585&fire=71A5D2&currStreakNum=71A5D2&currStreakLabel=71A5D2&sideLabels=71A5D2&dates=FFFFFF)](https://git.io/streak-stats)
 <div/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mario-george&layout=compact&theme=rose_pine)
